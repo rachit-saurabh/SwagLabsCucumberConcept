@@ -12,7 +12,7 @@ Then user clicks on Add to Cart button
 Then user open the cart
 Then user clicks on checkout button
 Then user enters the firstname and lastname and postalcode
-| Rachit | Saurabh | 123456 |
+| David | Whirkling | 569874 |
 
 Then user clicks on continue button
 Then user clicks on finish button
